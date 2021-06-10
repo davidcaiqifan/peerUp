@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: d46d4b7098a25a4409d53aa0c29e4937
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9bad1197030e8f0408e828b546c37772
+  - enabled: 1
+    path: Assets/Scenes/Chat.unity
+    guid: 7374da3a418da954199460b922f83a95
+  - enabled: 1
+    path: Assets/Scenes/FortuneWheel.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: cab3358a86e66d04eb254cbeceb97e5b
+  - enabled: 1
+    path: Assets/Scenes/Matches.unity
+    guid: d2c4f3a41607ff240a2419cd869d3414
+  - enabled: 1
+    path: Assets/Scenes/PostMenu.unity
+    guid: 38058ff2ebf1859469939bff36acd2b6
+  - enabled: 1
+    path: Assets/Scenes/Profile.unity
+    guid: a30d7a20aeae29e4a8821f82fec56bd1
+  - enabled: 1
+    path: Assets/Scenes/Rewards.unity
+    guid: 816a4ecb39f2fe448a05c9639807cdc6
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
